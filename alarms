@@ -1,0 +1,4 @@
+#min hour weekday(Mon=0) week(*/2=even, -1=odd) day month
+#dont use *,/  on min!
+45 8 0,1,2,3,4 * * * Beliebiger_Alarm
+46 13 
